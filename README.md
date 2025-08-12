@@ -4,6 +4,8 @@
 
 <div align="center">
 
+<div align="center">
+
   <table>
     <tr>
       <td>
@@ -11,13 +13,15 @@
         <img
           src="https://github-readme-stats.vercel.app/api?username=henriquepalato&show_icons=true&count_private=true&hide_border=false&border_radius=10&theme=default"
           width="460"
+          height="210"
           alt="Henrique's GitHub Stats" />
       </td>
       <td>
-        <!-- Most Used Languages (com largura interna controlada) -->
+        <!-- Most Used Languages -->
         <img
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquepalato&layout=compact&card_width=460&hide_border=false&border_radius=10&theme=default"
           width="460"
+          height="210"
           alt="Most Used Languages" />
       </td>
     </tr>
