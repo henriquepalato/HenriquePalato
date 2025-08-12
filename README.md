@@ -2,11 +2,12 @@
 
 # Hello! I'm Henrique Palato 👋
 
-<!-- Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=henriquepalato&show_icons=true" alt="GitHub stats" />
+<div align="center">
 
-<!-- Top languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquepalato&layout=compact" alt="Top Langs" />
+<img width="420" src="https://github-readme-stats.vercel.app/api?username=henriquepalato&show_icons=true&theme=default" />
+<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquepalato&layout=compact&theme=default" />
+
+</div>
 
 <!-- Social -->
   
