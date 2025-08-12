@@ -2,22 +2,11 @@
 
 # Hello! I'm Henrique Palato 👋
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
-<div align="center">
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=henriquepalato&show_icons=true&theme=default&hide_border=false&border_radius=10&count_private=true" alt="GitHub stats" />
 
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=henriquepalato&show_icons=true&theme=default&hide_border=false&border_radius=10&count_private=true" width="420"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquepalato&layout=compact&theme=default&hide_border=false&border_radius=10" width="420"/>
-      </td>
-    </tr>
-  </table>
-
-</div>
+  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquepalato&layout=compact&theme=default&hide_border=false&border_radius=10" alt="Top languages" />
 
 </div>
 
