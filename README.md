@@ -1,6 +1,4 @@
-<div align="center">
-  ## Hi! I'm Henrique Palato 👋
-</div>
+## Hi! I'm Henrique Palato 👋
 
 <div align="center">
   <a href="https://github.com/HenriquePalato">
